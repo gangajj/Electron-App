@@ -1,0 +1,5 @@
+{
+    "environment" : "prod",
+    "enableDevTools" : true,
+    "applicationUrl" : "https://www.google.com/"
+}
